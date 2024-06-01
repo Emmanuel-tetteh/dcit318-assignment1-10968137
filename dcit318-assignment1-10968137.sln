@@ -5,6 +5,10 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dcit318-assignment1-10968137", "dcit318-assignment1-10968137.csproj", "{EDC49222-5C7B-4BEA-B92F-A6EF95BD871B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketCalc", "TicketCalc\TicketCalc.csproj", "{6E7727DA-EEFF-4F7C-80D5-BE1BAE53DB03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleType", "TriangleType\TriangleType.csproj", "{14BC80B4-9DC5-4B0B-A35C-5BA062B47859}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{EDC49222-5C7B-4BEA-B92F-A6EF95BD871B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDC49222-5C7B-4BEA-B92F-A6EF95BD871B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDC49222-5C7B-4BEA-B92F-A6EF95BD871B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E7727DA-EEFF-4F7C-80D5-BE1BAE53DB03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E7727DA-EEFF-4F7C-80D5-BE1BAE53DB03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E7727DA-EEFF-4F7C-80D5-BE1BAE53DB03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E7727DA-EEFF-4F7C-80D5-BE1BAE53DB03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14BC80B4-9DC5-4B0B-A35C-5BA062B47859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14BC80B4-9DC5-4B0B-A35C-5BA062B47859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14BC80B4-9DC5-4B0B-A35C-5BA062B47859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14BC80B4-9DC5-4B0B-A35C-5BA062B47859}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

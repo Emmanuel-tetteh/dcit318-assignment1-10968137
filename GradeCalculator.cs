@@ -21,5 +21,3 @@ else
 {
     Console.WriteLine("The Student will be awarded a grade F. He/She failed the course");
 }
-
-
